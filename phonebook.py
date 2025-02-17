@@ -1,11 +1,4 @@
-'''
-add - name, email, phone number
-update - specify the value that you wish to update
-view all - display the entire dictionary
-view - View the details of the specified individual
-quit - Exit out of the program
 
-'''
 
 universal = {}
 
